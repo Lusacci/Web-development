@@ -1,2 +1,7 @@
 # Web-development
-Multiple Web Development Projects
+
+Front-end Web Engineering- creation of the landing page using the Boostrap Framework, integrating HTML, CSS, javascript, jQuery, PHP, Ruby
+
+Unable to upload full pk-website, confidentiality issues, it is company property. 
+
+Much of these files are OUTDATED. Must update later, pk-website is 87.8MB compressed.
