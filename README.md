@@ -1,6 +1,6 @@
 # Web-development
 
-Front-end Web Engineering- creation of the landing page using the Boostrap Framework, integrating HTML, CSS, javascript, jQuery, PHP, Ruby
+Front-end Web Engineering- creation of the landing page using the Boostrap Framework, integrating HTML, CSS, Angular js, jQuery, PHP, Ruby
 
 Unable to upload full pk-website, confidentiality issues, it is company property. 
 
